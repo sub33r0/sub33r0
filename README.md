@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darko Stoichkov</h1>
-<h3 align="center">A passionate developer from Bulgaria</h3>
+<img src="" width="250">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sub33r0&label=Profile%20views&color=0e75b6&style=flat" alt="sub33r0" /> </p>
 
