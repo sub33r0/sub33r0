@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Darko Stoichkov</h1>
 <p align="center"> <img src="https://github.com/sub33r0/sub33r0/blob/main/programming-coding-digital-marketing-b63zccx04i4luhh9.gif" width="350" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sub33r0&label=Profile%20views&color=0e75b6&style=flat" alt="sub33r0" /> </p>
+  <div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/sub33r0"/>  
+    </div>
 
 - 🌱 I’m currently learning **Angular, MongoDB, NodeJS**
 
